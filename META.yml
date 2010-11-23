@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               MojoX-Run
-version:            0.12
+version:            0.13
 abstract:           asynchronous external command or subroutine execution for Mojo
 author:
     - "Brane F. Gracnar" <"bfg@frost.ath.cx">
