@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               MojoX-Run
-version:            0.14
-abstract:           asynchronous external command or subroutine execution for Mojo
+version:            0.15
+abstract:           asynchronous external command and subroutine execution for Mojo
 author:
     - "Brane F. Gracnar" <"bfg@frost.ath.cx">
 license:            perl
@@ -12,6 +12,7 @@ build_requires:
     ExtUtils::MakeMaker:  0
 requires:
     Mojolicious:  0.99994
+    Storable:     0
     Test::More:   0
 no_index:
     directory:
